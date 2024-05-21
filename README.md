@@ -1,1 +1,1 @@
-This is a sales performance dashboard building project. This is an interactive dashboard that consists sales and product analysis of a company.
+This is an interactive dashboard that depicts the analysis of sales performance and product selling of a company.
